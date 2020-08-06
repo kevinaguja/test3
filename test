@@ -1,6 +1,13 @@
-echo "# test3" >> README.md
+TESTING MASTER
+
+
+echo "# TESTING MASTER" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
 git remote add origin https://github.com/kevinaguja/test3.git
 git push -u origin master
+
+
+
+TESTING MASTER
