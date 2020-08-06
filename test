@@ -1,7 +1,7 @@
 TESTING MASTER
 
 
-echo "# 6 TESTING MASTER" >> README.md
+zxkljcklzxclkjzcecho "# 6 TESTING MASTER" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
